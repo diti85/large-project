@@ -1,3 +1,15 @@
+## HouseHold
+
+![household](https://github.com/diti85/large-project/assets/101580207/8dbd8c95-eecd-40f0-b8c2-1136a00fcc50)
+
+HouseHold is a full-stack household management application that enables households to efficiently manage tasks, lists, and events in real-time, enhancing communication and collaboration among members. This repository contains the code for both the mobile app and the backend infrastructure.
+
+# Features
+ • Task Management: Create, assign, and track tasks within the household. Members can view their assigned tasks and mark them as complete.
+ • List Management: Create and share lists, such as grocery lists or to-do lists, with other household members. Real-time updates ensure everyone stays in sync.
+ • Event Management: Plan and organize events within the household. Invite members, set reminders, and track RSVPs.
+ • Real-time Communication: Utilizes GraphQL and AWS Amplify to provide real-time updates and synchronization across all devices, fostering improved communication and collaboration.
+ 
 ## First Time Install
 
 In the project directory, you can run:
