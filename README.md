@@ -6,9 +6,13 @@ HouseHold is a full-stack household management application that enables househol
 
 # Features
  • Task Management: Create, assign, and track tasks within the household. Members can view their assigned tasks and mark them as complete.
+ 
  • List Management: Create and share lists, such as grocery lists or to-do lists, with other household members. Real-time updates ensure everyone stays in sync.
- • Event Management: Plan and organize events within the household. Invite members, set reminders, and track RSVPs.
+
+ • Event Management: Plan and organize events within the household.
+ 
  • Real-time Communication: Utilizes GraphQL and AWS Amplify to provide real-time updates and synchronization across all devices, fostering improved communication and collaboration.
+ 
  
 ## First Time Install
 
